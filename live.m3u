@@ -13,23 +13,17 @@ http://xrxs.net/video/live-p12moun-2328.m3u8
 http://xrxs.net/video/live-p12wash-2328.m3u8
 #EXTINF:-1,PAC-12 (Oregon)
 http://xrxs.net/video/live-p12oreg-2328.m3u8
-#EXTINF:-1,USA: FOX SPORT 1
-http://137.74.202.226:8000/live/Tomaso3/Tomaso3/13671.ts
-#EXTINF:-1,USA: FOX SPORT 2
-http://137.74.202.226:8000/live/Tomaso3/Tomaso3/13672.ts
-#EXTINF:-1,US:  Fox Sport 1 HD
-http://46.105.115.25:8000/live/28637288237427/1593574628/1138.ts
-#EXTINF:-1,US:  Fox Sport 2
-http://46.105.115.25:8000/live/28637288237427/1593574628/1139.ts
-#EXTINF:-1,USA: ESPN
-http://137.74.202.226:8000/live/Tomaso3/Tomaso3/13670.ts
-#EXTINF:-1,US:  ESPN 2
-http://46.105.115.25:8000/live/28637288237427/1593574628/1118.ts
-#EXTINF:-1,US:  ESPN HD
-http://46.105.115.25:8000/live/28637288237427/1593574628/1136.ts
-#EXTINF:-1,US:  NBC SPORT
-http://46.105.115.25:8000/live/28637288237427/1593574628/1137.ts
 #EXTINF:-1,PAC-12 (National) Backup
 http://138.197.197.28/ggwp/network/ggp12n-2328.m3u8
 #EXTINF:-1,PAC-12 (Arizona) Backup
 http://138.197.197.28/ggwp/arizona/ggp12a-2328.m3u8
+#EXTINF:-1,PAC-12 (Bay Area) Backup
+http://138.197.197.28/ggwp/bayarea/ggp12b-2328.m3u8
+#EXTINF:-1,PAC-12 (Los Angeles) Backup
+http://138.197.197.28/ggwp/losangeles/ggp12l-2328.m3u8
+#EXTINF:-1,PAC-12 (Mountain) Backup
+http://138.197.197.28/ggwp/mountain/ggp12m-2328.m3u8
+#EXTINF:-1,PAC-12 (Washington) Backup
+http://138.197.197.28/ggwp/washington/ggp12w-2328.m3u8
+#EXTINF:-1,PAC-12 (Oregon) Backup
+http://138.197.197.28/ggwp/oregon/ggp12o-2328.m3u8
